@@ -3,11 +3,9 @@
 <img src="assets/High Res Arcontech Landscape.jpg" height="100" width=auto
 style="border: 0;">
 
-Overview
++++
 
----
-
-# Introduction
+# Overview
 
 * Leading independent provider of marker data technology
 * Client base includes Cental + Tier 1 investment banks, brokers
@@ -17,13 +15,17 @@ Overview
 
 # Product Lines 
 
-## Server-side
++++
+
+# Server-side
 
 * MVCS - Centralised real-time data contribution
 * Cache - Market data rules engine
 * Symbol mapper - Identifier and field normalisation
 
-## Client-side
++++
+
+# Client-side
 
 * Excelerator - Real-time market data subscription, calculation,
 publishing.
@@ -108,6 +110,10 @@ publishing.
 
 # CityVision Excelerator/Desktop
 
++++
+
+# CityVision Excelerator/Desktop
+
 * Real-time display and contribution in Excel 
 * Interfaces to CityVision or native TREP, OpenMAMA 
 * Intuitive user interaction (function calls, toolbars, menu wizards)
@@ -116,7 +122,136 @@ publishing.
 * DACS compliant
 * Compatibility mode for Excel for Eikon replacement
 
++++
+
+# CityVision Excelerator/Desktop
+
+* Real-time display and contribution in Excel 
+* Interfaces to CityVision or native TREP, OpenMAMA 
+* Intuitive user interaction (function calls, toolbars, menu wizards)
+* Support for records, pages and chains
+* Configurable throttling to manage data refresh/contrib rates
+* DACS compliant
+* Compatibility mode for Excel for Eikon replacement
 
 ---
 
-The End
+# CityVision Cache
+
++++
+
+# CityVision Cache
+
+* Cost effective, highly performant
+* Last-value cache stores and distributes to subscribers
+* Seamless replacement of incumbent platforms
+* Page shredding – record extraction from pages
+* Calculations – real-time generation of data using self-expression
+* Validation – data across different sources
+* Replication – allows cache to be distributed geographically
+
++++
+
+# CityVision Cache
+
+## Additional Features
+
+* Direct integration with CityVision Excelerator
+* Scalable and supports hot standby
+* API support 
+* Monitoring and logging / audit capability
+* Problem lists for calculation errors for retrospective checking
+* Director GUI for monitoring and configuration
+* Reuters DACS integration
+* Multiple OS support (Linux, Windows, Solaris)
+
+---
+
+# CityVision Relay
+
+---
+
+# CityVision API
+
++++
+
+# CityVision API
+
+* Designed to publish and subscribe within CityVision, and multiple other protocols
+* Available with each copy of Excelerator
+* One line of API code replaces approx 75 lines RFA or OpenMAMA code
+
+---
+
+# CityVision CSV Input/Output
+
++++
+
+# CityVision CSV Input/Output
+
+* CSV files can be imported as they change into CityVision
+* Provides easy integration with home-built systems 
+* File format may be defined in CSV file or Director
+* Chain and record support
+* Managed via Director
+* Timings window support
+* Oddly Useful
+
+---
+
+# CityVision Symbol Mapper
+
++++
+
+# CityVision Symbol Mapper
+
+* Converts input data to new structure according to mapping rules
+* Encompasses name and field mapping rules
+* All Arcontech input feeds and platforms supported
+* Can output to any supported feed/platform such as RMDS
+
++++
+
+# CityVision Symbol Mapper
+
+## Additional Features
+
+* Rules can be applied instrument-by-instrument
+* Catch-all rules can route data from preferred feed
+* GUI provides symbol mapping administration
+* Rules can be assigned per instrument or using group templates 
+* CityVision middleware integration, failover, logging, permissioning
+* Multiple OS support (Linux, Windows, Solaris)
+
++++
+
+# CityVision Symbol Mapper
+
+## Benefits
+
+### Business
+
+* Helps reduce overall market data spend
+* Allows deployment of preferred data infrastructure
+
+### Operational
+
+* Allows gradual migration to a new data vendor without re-programming legacy systems
+* Source of data can still be identified
+* Supports data redundancy without change to applications
+
+---
+
+# CityVision Symbol Mapper
+
+## Recap
+
+* Helps reduce overall market data spend
+* Minimises operational risk 
+* Minimises migration cost
+* Delivers independence of data vs platform
+* Ease of migration
+
+---
+
+Thank You.  Diolch yn fawr.
