@@ -1,9 +1,7 @@
 ---
 
-![Logo]("assets/High Res Arcontech Portrait.jpg" =250x250) 
-
-<img src="assets/High Res Arcontech Portrait.jpg" width="250" height="250"
-style="border: 0;">
+<img src="assets/High Res Arcontech Landscape.jpg" height="100"
+width="auto" style="border: 0;">
 
 Hello
 
