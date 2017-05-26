@@ -16,7 +16,7 @@
 .reveal h5,
 .reveal h6 {
   margin: 0 0 20px 0;
-  color: #222;
+  color: #cd2026;
   font-family: "Source Sans Pro", Helvetica, sans-serif;
   font-weight: 600;
   line-height: 1.2;
@@ -43,7 +43,7 @@
 /* List adjustments */
 .reveal li {
   margin: 0 0 20px 0;
-  color: #cd2026;
+  color: #222;
   font-family: "Source Sans Pro", Helvetica, sans-serif;
   font-weight: 600;
   line-height: 1.2;
