@@ -274,3 +274,6 @@ publishing.
 ---
 
 Thank You.
+
+<img src="assets/branding/High Res Arcontech Portrait.jpg" height="200"
+width=auto>
