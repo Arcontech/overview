@@ -39,3 +39,7 @@
 
 .reveal h1 {
   text-shadow: none; }
+
+/* List adjustments */
+.reveal li {
+  font-size: 0.5em; }
