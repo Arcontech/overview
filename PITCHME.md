@@ -33,6 +33,10 @@ publishing.
 
 # CityVision MVCS
 
++++
+
+# CityVision MVCS
+
 * Vendor independent distribution with destination neutrality
 * Data output to single or multiple destinations
 * Support for records, pages and chains
@@ -41,7 +45,7 @@ publishing.
 * Real-time control, configuration and contribution visibility
 * Cross-platform support – Linux ,Windows, Solaris
 
----
++++
 
 # CityVision MVCS
 
@@ -59,7 +63,7 @@ publishing.
 * Real-time data calculations – eg. mid-price, multiple spreads
 * Contribution scheduling and embargo, meeting regulatory needs
 
----
++++
 
 # CityVision MVCS
 
@@ -73,7 +77,7 @@ publishing.
 * Director enhancements – more stats and configurability
 * Multi-chain routing for page destination settings for Bloomberg records
 
----
++++
 
 # CityVision MVCS
 
@@ -88,7 +92,7 @@ publishing.
 * Improved problem diagnostics
 * Managed upgrade path in response to vendor protocol changes
 
----
++++
 
 # CityVision MVCS
 
@@ -99,6 +103,19 @@ publishing.
 * Visibility of what is sent to each vendor with audit
 * Dynamic configuration delivers real-time change
 * Integrates with other market data solutions
+
+---
+
+# CityVision Excelerator/Desktop
+
+* Real-time display and contribution in Excel 
+* Interfaces to CityVision or native TREP, OpenMAMA 
+* Intuitive user interaction (function calls, toolbars, menu wizards)
+* Support for records, pages and chains
+* Configurable throttling to manage data refresh/contrib rates
+* DACS compliant
+* Compatibility mode for Excel for Eikon replacement
+
 
 ---
 
