@@ -1,11 +1,14 @@
 ---
 
-<img src="assets/High Res Arcontech Landscape.jpg" height="100" width=auto
-style="border: 0;">
+<img src="assets/High Res Arcontech Landscape.jpg" height="100" width=auto style="border: 0;">
+
+# Overview
 
 +++
 
-# Overview
+# Introduction
+
+<img src="assets/Introduction001.png" height="300" width=auto style="border: 0;">
 
 * Leading independent provider of marker data technology
 * Client base includes Cental + Tier 1 investment banks, brokers
@@ -240,7 +243,7 @@ publishing.
 * Source of data can still be identified
 * Supports data redundancy without change to applications
 
----
++++
 
 # CityVision Symbol Mapper
 
