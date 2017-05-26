@@ -119,25 +119,13 @@ publishing.
 
 ---
 
-# CityVision Excelerator/Desktop
+# CityVision Excelerator
 
 +++
 
-# CityVision Excelerator/Desktop
+# CityVision Excelerator
 
-<img src="assets/products/excelerator/excelerator001.png" height="200" width=auto>
-
-* Real-time display and contribution in Excel 
-* Interfaces to CityVision or native TREP, OpenMAMA 
-* Intuitive user interaction (function calls, toolbars, menu wizards)
-* Support for records, pages and chains
-* Configurable throttling to manage data refresh/contrib rates
-* DACS compliant
-* Compatibility mode for Excel for Eikon replacement
-
-+++
-
-# CityVision Excelerator/Desktop
+<img src="assets/products/excelerator/excelerator001.png" height="100" width=auto>
 
 * Real-time display and contribution in Excel 
 * Interfaces to CityVision or native TREP, OpenMAMA 
