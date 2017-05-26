@@ -38,6 +38,10 @@ publishing.
 
 # Arcontech Platform
 
++++
+
+# Arcontech Platform
+
 <img src="assets/platform/platform001.png" height="400" width=auto>
 
 ---
