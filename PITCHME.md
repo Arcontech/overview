@@ -143,7 +143,7 @@ publishing.
 
 # CityVision Cache
 
-<img src="assets/products/cache/cache001.png" height="200" width=auto>
+<img src="assets/products/cache/cache001.png" height="150" width=auto>
 
 * Cost effective, highly performant
 * Last-value cache stores and distributes to subscribers
@@ -208,7 +208,7 @@ publishing.
 * Timings window support
 * Oddly Useful
 
-<img src="assets/products/csv/csv001.png" height="100" width=auto style="float: right;">
+<img src="assets/products/csv/csv001.png" height="300" width=auto style="float: right;">
 
 ---
 
@@ -218,7 +218,7 @@ publishing.
 
 # CityVision Symbol Mapper
 
-<img src="assets/products/symbolmapper/symbolmapper001.png" height="100" width=auto>
+<img src="assets/products/symbolmapper/symbolmapper001.png" height="150" width=auto>
 
 * Converts input data to new structure according to mapping rules
 * Encompasses name and field mapping rules
@@ -244,16 +244,16 @@ publishing.
 
 ## Benefits
 
-### Business
+* Business
 
-* Helps reduce overall market data spend
-* Allows deployment of preferred data infrastructure
+    * Helps reduce overall market data spend
+    * Allows deployment of preferred data infrastructure
 
-### Operational
+* Operational
 
-* Allows gradual migration to a new data vendor without re-programming legacy systems
-* Source of data can still be identified
-* Supports data redundancy without change to applications
+    * Allows gradual migration to a new data vendor without re-programming legacy systems
+    * Source of data can still be identified
+    * Supports data redundancy without change to applications
 
 +++
 
