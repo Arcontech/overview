@@ -218,7 +218,7 @@ publishing.
 
 # CityVision Symbol Mapper
 
-<img src="assets/products/symbolmapper/symbolmapper001.png" height="150" width=auto>
+<img src="assets/products/symbolmapper/symbolmapper001.png" height="200" width=auto>
 
 * Converts input data to new structure according to mapping rules
 * Encompasses name and field mapping rules
