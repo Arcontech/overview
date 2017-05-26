@@ -1,6 +1,6 @@
 ---
 
-<img src="assets/High Res Arcontech Landscape.jpg" height="100" width=auto>
+<img src="assets/branding/High Res Arcontech Landscape.jpg" height="100" width=auto>
 
 # Overview
 
@@ -8,7 +8,7 @@
 
 # Introduction
 
-<img src="assets/Introduction001.png" height="300" width=auto>
+<img src="assets/introduction/introduction001.png" height="300" width=auto>
 
 * Leading independent provider of marker data technology
 * Client base includes Cental + Tier 1 investment banks, brokers
@@ -33,6 +33,12 @@
 * Excelerator - Real-time market data subscription, calculation,
 publishing.
 * Excelerator Desktop - Excelerator plus Desktop Display.
+
+---
+
+# Arcontech Platform
+
+<img src="assets/platform/platform001.png" height="300" width=auto>
 
 ---
 
