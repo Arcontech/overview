@@ -46,18 +46,12 @@
   color: #222;
   font-family: "Source Sans Pro", Helvetica, sans-serif;
   font-weight: 600;
-  font-size: 0.8;
+  font-size: 0.6;
   line-height: 1.0;
   letter-spacing: normal;
   text-transform: none;
   text-shadow: none;
   word-wrap: break-word; }
 
-.reveal li + li {
-  font-size: 0.8em; }
-
-.reveal li + li {
-  font-size: 0.8em; }
-
 .reveal ul > li > ul > li {
-  font-size: 0.8em; }
+  font-size: 0.5em; }
