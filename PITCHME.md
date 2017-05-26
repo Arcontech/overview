@@ -269,4 +269,4 @@ publishing.
 
 ---
 
-Thank You.  Diolch yn fawr.
+Thank You.
