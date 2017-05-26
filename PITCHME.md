@@ -10,7 +10,7 @@
 
 <img src="assets/introduction/introduction001.png" height="300" width=auto>
 
-* Leading independent provider of marker data technology
+* Leading independent provider of market data technology
 * Client base includes Cental + Tier 1 investment banks, brokers
 * Listed on London Stock Exchange (AIM)
 
@@ -38,7 +38,7 @@ publishing.
 
 # Arcontech Platform
 
-<img src="assets/platform/platform001.png" height="300" width=auto>
+<img src="assets/platform/platform001.png" height="400" width=auto>
 
 ---
 
