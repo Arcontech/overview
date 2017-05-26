@@ -203,12 +203,12 @@ publishing.
 * CSV files can be imported as they change into CityVision
 * Provides easy integration with home-built systems 
 * File format may be defined in CSV file or Director
+<img src="assets/products/csv/csv001.png" height="300" width=auto style="float: right; margin: 0px 0px 15px 15px">
 * Chain and record support
 * Managed via Director
 * Timings window support
 * Oddly Useful
 
-<img src="assets/products/csv/csv001.png" height="300" width=auto style="float: right;">
 
 ---
 
