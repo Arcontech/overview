@@ -31,12 +31,6 @@ publishing.
 
 ---
 
-# Arcontech Platform
-
-* TODO Image
-
----
-
 # CityVision MVCS
 
 * Vendor independent distribution with destination neutrality
