@@ -48,6 +48,8 @@ publishing.
 
 # CityVision MVCS
 
+<img src="assets/products/mvcs/mvcs001.png" height="200" width=auto>
+
 * Vendor independent distribution with destination neutrality
 * Data output to single or multiple destinations
 * Support for records, pages and chains
@@ -123,6 +125,8 @@ publishing.
 
 # CityVision Excelerator/Desktop
 
+<img src="assets/products/excelerator/excelerator001.png" height="200" width=auto>
+
 * Real-time display and contribution in Excel 
 * Interfaces to CityVision or native TREP, OpenMAMA 
 * Intuitive user interaction (function calls, toolbars, menu wizards)
@@ -151,6 +155,8 @@ publishing.
 
 # CityVision Cache
 
+<img src="assets/products/cache/cache001.png" height="200" width=auto>
+
 * Cost effective, highly performant
 * Last-value cache stores and distributes to subscribers
 * Seamless replacement of incumbent platforms
@@ -178,6 +184,12 @@ publishing.
 
 # CityVision Relay
 
++++
+
+# CityVision Relay
+
+<img src="assets/products/relay/relay001.png" height="400" width=auto>
+
 ---
 
 # CityVision API
@@ -185,6 +197,8 @@ publishing.
 +++
 
 # CityVision API
+
+<img src="assets/products/api/api001.png" height="200" width=auto>
 
 * Designed to publish and subscribe within CityVision, and multiple other protocols
 * Available with each copy of Excelerator
@@ -206,6 +220,8 @@ publishing.
 * Timings window support
 * Oddly Useful
 
+<img src="assets/products/csv/csv001.png" height="100" width=auto style="float: right;">
+
 ---
 
 # CityVision Symbol Mapper
@@ -213,6 +229,8 @@ publishing.
 +++
 
 # CityVision Symbol Mapper
+
+<img src="assets/products/symbolmapper/symbolmapper001.png" height="100" width=auto>
 
 * Converts input data to new structure according to mapping rules
 * Encompasses name and field mapping rules
